@@ -11,9 +11,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h1>
           <p className="text-gray-500 text-sm  md:text-base text-start text-md">
-            I have 8 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL.
+          I'm in my final year of BTech and have experience building and designing software. Right now, I'm passionate about working on web applications using technologies such as React, Tailwind CSS, Express, and MongoDB.
           </p>
           
           <a href="#portfolio" className= "group text-white my-4 flex items-center justify-center h-12 w-1/2 md:w-[50%]  rounded-lg bg-gradient-to-r from-cyan-500 to-blue-600 font-semibold gap-2">

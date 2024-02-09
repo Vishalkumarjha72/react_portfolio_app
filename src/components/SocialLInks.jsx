@@ -9,7 +9,7 @@ const SocialLInks = () => {
       <ul className="flex flex-col  ">
         <li className=" w-40 h-14 rounded-tr-lg flex  px-4 justify-between ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300  bg-gray-500 items-center ">
           <a
-            href=""
+            href='https://www.linkedin.com/in/vishal-kumar-jha-ba226122a'
             className="flex justify-between items-center w-full text-white"
           >
             <>
@@ -19,7 +19,7 @@ const SocialLInks = () => {
         </li>
         <li className=" w-40 h-14  flex  px-4 justify-between ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300  bg-gray-500 items-center ">
           <a
-            href=""
+            href="https://github.com/Vishalkumarjha72"
             className="flex justify-between items-center w-full text-white"
           >
             <>
@@ -29,7 +29,7 @@ const SocialLInks = () => {
         </li>
         <li className=" w-40 h-14  flex  px-4 justify-between ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300  bg-gray-500 items-center ">
           <a
-            href=""
+            href="mailto:vishaljhavkj72@gmail.com"
             className="flex justify-between items-center w-full text-white"
           >
             <>
@@ -39,8 +39,10 @@ const SocialLInks = () => {
         </li>
         <li className=" w-40 h-14 rounded-br-lg flex  px-4 justify-between ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300  bg-gray-500 items-center ">
           <a
-            href=""
+            href="/Vishal.pdf"
             className="flex justify-between items-center w-full text-white"
+            download={true}
+
           >
             <>
               Resume <RiContactsFill size={30} />
